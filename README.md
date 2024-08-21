@@ -1,1 +1,1 @@
-A project that uses Convolutional Neural Networks (CNN's) to find and detect obstructions in front of the human face. Primarily used to detect the presence of masks and helmets on the on the individual's face in places like ATM's and online examinations.
+
